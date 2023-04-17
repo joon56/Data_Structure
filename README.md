@@ -7,3 +7,5 @@ Summaries on my blog
 
 ###[Recursion](https://helloparzival.tistory.com/entry/Data-Structure-%EC%9E%AC%EA%B7%80Recursion)
 
+###[Linear List](https://helloparzival.tistory.com/entry/Data-Structure-%EC%84%A0%ED%98%95-%EB%A6%AC%EC%8A%A4%ED%8A%B8Linear-List)
+
