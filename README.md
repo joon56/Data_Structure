@@ -10,3 +10,5 @@ Summaries on my blog
 ###[Linear List](https://helloparzival.tistory.com/entry/Data-Structure-%EC%84%A0%ED%98%95-%EB%A6%AC%EC%8A%A4%ED%8A%B8Linear-List)
 
 ###[Linked List 1](https://helloparzival.tistory.com/entry/Data-Structure-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8Linked-List)
+
+###
