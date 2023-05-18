@@ -11,7 +11,7 @@ Summaries on my blog
 
 ###[Linked List 1](https://helloparzival.tistory.com/entry/Data-Structure-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8Linked-List)
 
-###[Linked List 2]
+###[Linked List 2](https://helloparzival.tistory.com/entry/Data-Structure-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B82Linked-List2)
 
 ###[Stack]
 
