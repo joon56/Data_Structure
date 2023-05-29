@@ -16,3 +16,5 @@ Summaries on my blog + essential code explanations
 ###[Stack]
 
 ###[Queue]
+
+###[Binary Search Tree]
