@@ -13,7 +13,7 @@ Summaries on my blog + essential code explanations
 
 ###[Linked List 2](https://helloparzival.tistory.com/entry/Data-Structure-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B82Linked-List2)
 
-###[Stack]
+###[Stack](https://helloparzival.tistory.com/entry/Data-Structure-%EC%8A%A4%ED%83%9DStack)
 
 ###[Queue]
 
